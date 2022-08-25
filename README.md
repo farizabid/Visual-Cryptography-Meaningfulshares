@@ -1,1 +1,3 @@
 # Visual-Cryptography-Meaningfulshares
+
+Digagas pada tahun 1995 oleh Naor dan Shamir, Kriptografi visual merupakan cabang dari ilmu kriptografi, yakni ilmu yang terkait dengan penyandian pesan rahasia. Kriptografi visual memanfaatkan kemampuan visual manusia untuk dapat melihat pesan rahasia yang disembunyikan tanpa perlu komputasi yang kompleks. Skema Naor dan Shamir ini dapat menyembunyikan pesan rahasia dalam n gambar yang berbeda yang disebut dengan share. Masing-masing share akan terlihat seperti kumpulan pixel yang acak namun setelah share ini ditumpuk bersamaan maka akan memperlihatkan gambar rahasia (Wu, Wang, & Yu, 2008).
